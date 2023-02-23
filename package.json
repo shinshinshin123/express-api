@@ -1,0 +1,24 @@
+{
+  "name": "express-api-1",
+  "version": "1.0.0",
+  "description": "学習記事 https://qiita.com/ngmr_mo/items/73cc7160d002a4989416",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinshinshin123/express-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinshinshin123/express-api/issues"
+  },
+  "homepage": "https://github.com/shinshinshin123/express-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongodb": "^5.0.1"
+  }
+}
